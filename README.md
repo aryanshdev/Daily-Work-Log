@@ -1,29 +1,23 @@
 ## Summary For 2025-09-02
-The provided text appears to be a log or usage report of various activities, likely from a coding or development environment. Here is a concise summary:
+The provided text appears to be a log or usage report of a developer's activities, detailing time spent on various tasks, applications, and programming languages. Here is a concise summary:
 
-**Time Summary:**
+**Duration:** 2 hours 53 minutes (2:53)
 
-* Total time: 2 hours 53 minutes (2:53)
+**Top activities:**
+
 * Coding: 2 hours 41 minutes (2:41:07)
 * Browsing: 12 minutes (0:12:01)
 
-**Top Activities:**
+**Top applications:**
+
+* Android Studio: 2 hours 8 minutes (2:08:24)
+* StackChat-App: 2 hours 8 minutes (2:08:19)
+* VS Code: 32 minutes (0:32:43)
+
+**Top programming languages:**
 
 * Dart: 1 hour 22 minutes (1:22:48)
-* Android Studio: 2 hours 8 minutes (2:08:24)
 * XML: 27 minutes (0:27:33)
 * Prisma: 27 minutes (0:27:22)
 
-**Other notable activities:**
-
-* VS Code: 32 minutes (0:32:43)
-* Firefox: 12 minutes (0:12:01)
-* DevChat-Backend: 32 minutes (0:32:43)
-* StackChat-App: 2 hours 8 minutes (2:08:19)
-
-**Date and Time:**
-
-* Date: September 3, 2025 (Wed Sep 3rd 2025)
-* Timezone: Asia/Kolkata
-* Start time: September 2, 2025, 18:30:00Z
-* End time: September 3, 2025, 18:29:59Z
+**Date and Time:** September 3rd, 2025 (Wed Sep 3rd 2025) in the Asia/Kolkata timezone.
