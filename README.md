@@ -20,57 +20,6 @@ Here is a summary of the total time spent on each category:
 The log also includes timestamps and timezone information (Asia/Kolkata).
 
 
-## Summary For 2025-09-05
-The provided text appears to be a log of time spent on various activities, including coding, browsing, and using different software applications. Here is a concise summary:
-
-**Total Time:** 8 hours 24 minutes
-
-**Breakdown:**
-
-* Coding: 2 hours 13 minutes
-* Browsing: 2 hours 38 minutes
-* Building: 3 hours 29 minutes
-* Writing Docs: 2 minutes
-
-**Top Applications:**
-
-* Firefox: 6 hours 8 minutes
-* Linux: 8 hours 24 minutes
-* Android Studio: 2 hours 3 minutes
-
-**Top Programming Languages:**
-
-* Dart: 2 hours 1 minute
-* JavaScript: 16 minutes
-
-This summary provides an overview of the time spent on different activities and applications. Let me know if you'd like me to extract any specific information!
-
-## Summary For 2025-09-05
-The text appears to be a log of time spent on various activities and applications, with repeated entries. A concise summary is:
-
-* Total time spent: 50 hours, 24 minutes, and 21 seconds (calculated earlier)
-* Top time-consuming activities:
-	+ Linux: 8 hours, 24 minutes
-	+ Other: 5 hours, 57 minutes
-	+ Firefox: 6 hours, 8 minutes
-* Dates mentioned: September 3rd and 4th, 2025
-
-Please let me know if you'd like me to extract any specific information!
-
-## Summary For 2025-09-05
-Here is a concise summary:
-
-**Time Summary:**
-- Total time: 8 hours 24 minutes
-- Operating System: Linux (100%)
-- Editors: Firefox (73%), Android Studio (24%), VS Code (2%)
-
-**Language Summary:**
-- Other (71%), Dart (24%), JavaScript (3%), Markdown (1%)
-
-**Activity Summary:**
-- Categories: Building (42%), Browsing (31%), Coding (26%)
-- Projects: StackChat-App (39%), stackchat_link (36%), Daily-Work-Log (22%)
 
 ## Summary For 2025-09-05
 Here is a concise summary:
