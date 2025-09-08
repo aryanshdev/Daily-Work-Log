@@ -29,3 +29,24 @@ Here is a concise summary:
   - Weathery_Source_Code (43.28%): 3 hours 52 minutes
   - DevChat-Backend (37.46%): 3 hours 21 minutes
   - StackChat-App (18.99%): 1 hour 41 minutes
+
+## Summary For 2025-09-08
+Here is a concise summary:
+
+**Time Summary (Sep 7-8, 2025)**: 8 hours 33 minutes spent across projects.
+
+**Top Projects**:
+- StackChat-App: 4 hours 40 minutes (54.64%)
+- DevChat-Backend: 3 hours 49 minutes
+
+**Top Activities**:
+- Coding: 4 hours 42 minutes (54.96%)
+- Browsing: 3 hours 46 minutes (44.07%)
+
+**Editors**:
+- Firefox: 3 hours 51 minutes (45.04%)
+- Android Studio: 2 hours 28 minutes (28.96%)
+- VS Code: 2 hours 13 minutes (25.99%)
+
+**Operating System**:
+- Linux: 8 hours 33 minutes (100%)
