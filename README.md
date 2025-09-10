@@ -83,3 +83,34 @@ Here is a concise summary:
 **Projects:**
 - DevChat-Backend: 3 hours 17 minutes (54.13%)
 - StackChat-App: 2 hours 47 minutes (45.87%)
+
+## Summary For 2025-09-10
+Here is a concise summary:
+
+**Time Summary**
+
+* Total time: 2 hours 22 minutes
+* Date: September 10, 2025
+* Timezone: Asia/Kolkata
+
+**Top Projects**
+
+* DevChat-Backend (96.73%): 2 hours 17 minutes
+* Projects (2.55%): 3 minutes
+* StackChat-App (0.72%): 1 minute
+
+**Top Languages**
+
+* Other (93.29%): 2 hours 12 minutes
+* JavaScript (3.44%): 4 minutes
+* Dart (3.27%): 4 minutes
+
+**Editors and Machines**
+
+* Firefox (95.84%): 2 hours 16 minutes
+* Unknown Hostname (95.84%): 2 hours 16 minutes
+
+**Categories**
+
+* Browsing (94.92%): 2 hours 15 minutes
+* Coding (4.16%): 5 minutes
