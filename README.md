@@ -149,3 +149,27 @@ Here is a concise summary:
 **Operating System**
 
 * Linux: 100%
+
+## Summary For 2025-09-13
+Here is a concise summary:
+
+**Time Summary:**
+- Total time: 1 hour 47 minutes
+- Most time spent on: Coding (1 hour 24 minutes) and Browsing (22 minutes)
+
+**Languages:**
+- Dart: 59 minutes (55.28%)
+- JavaScript: 23 minutes (22.36%)
+- Other: 22 minutes (21%)
+
+**Editors:**
+- Android Studio: 1 hour (56.64%)
+- VS Code: 23 minutes (22.36%)
+
+**Operating Systems:**
+- Linux: 1 hour 24 minutes (79%)
+- Windows: 22 minutes (21%)
+
+**Projects:**
+- StackChat-App: 1 hour (56.64%)
+- DevChat-Backend: 46 minutes (43.36%)
