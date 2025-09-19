@@ -39,3 +39,22 @@ The session started at 18:30:00Z and ended at 18:29:59Z in the Asia/Kolkata time
 
 ## Summary For 2025-09-17
 The provided data appears to be a JSON object containing user activity statistics, but it shows no activity. All metrics, such as additions, deletions, and time spent, are zero. The data range spans from September 16, 2025, 6:30 PM to September 17, 2025, 6:29 PM (UTC), in the Asia/Kolkata timezone.
+
+## Summary For 2025-09-18
+The provided text appears to be a collection of summaries detailing time spent on various tasks, projects, and processes. Here is a concise summary:
+
+- **Language Usage**: 
+  - JavaScript: 2 hours 21 minutes (56.65%)
+  - Dart: 1 hour 43 minutes (41.65%)
+
+- **Editor Usage**: 
+  - VS Code: 2 hours 25 minutes (58.35%)
+  - Android Studio: 1 hour 44 minutes (41.65%)
+
+- **Total Time**: 4 hours 9 minutes
+
+- **Operating System**: Linux (100%)
+
+- **Category**: Coding
+
+The data also includes breakdowns of time spent on specific packages, components, tasks, and machines, but the core summary revolves around coding activities on Linux using VS Code and Android Studio, with a focus on JavaScript and Dart.
