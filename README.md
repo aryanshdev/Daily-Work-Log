@@ -24,3 +24,27 @@
 - Writing docs – 5 s (≈ 0.2 %).  
 
 *Overall, the day was dominated by coding in Dart on the notecraftapp project, primarily using Android Studio on a Linux machine.*
+
+## Summary For 2025-10-26
+**Summary (34 min total activity)**  
+
+- **Time spent:** 34 minutes (2 041 s) on 26 Oct 2025 (Asia/Kolkata).  
+- **Languages:**  
+  - Dart – 29 min (≈86 % of time)  
+  - Desktop file – 2 min (≈8 %)  
+  - YAML – 2 min (≈6 %)  
+  - Markdown – 5 s (≈0.3 %)  
+- **Editors:**  
+  - Android Studio / VS Studio – 31 min each (≈92 % combined)  
+  - VS Code – 2 min (≈8 %)  
+- **Operating system:** Linux – 100 % of the session.  
+- **Activity categories:**  
+  - Coding – 33 min (≈99.8 %)  
+  - Writing docs – 5 s (≈0.2 %)  
+- **Projects:**  
+  - **notecraftapp** – 31 min (≈92 % of total)  
+  - **Unknown Project** – 2 min (≈8 %)  
+  - **flutter** – 3 s (≈0.2 %)  
+- **No AI‑ or human‑generated additions/deletions** were recorded.  
+
+Overall, the day’s work was dominated by Dart coding in Android/VS Studio on Linux, primarily for the *notecraftapp* project.
