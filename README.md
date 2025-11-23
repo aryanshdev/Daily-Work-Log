@@ -1,21 +1,25 @@
-# Week 45
+# Week 47
 
-## Summary For 2025-11-03
-**Summary (Nov 3 2025, 42 min total)**  
+## Summary For 2025-11-22
+**Overall activity (≈ 3 h 51 m / 3.85 h)**  
+- **Languages:** C# ≈ 49 % (1 h 54 m), “Other” ≈ 45 % (1 h 44 m), TypeScript ≈ 6 % (13 m).  
+- **Editors:** Visual Studio (1 h 54 m) and Edge (1 h 44 m) split the time evenly; VS Code handled the 13 m TypeScript work.  
+- **Operating system:** Windows (100 %).  
+- **Categories:** Coding ≈ 55 % (2 h 8 m), Browsing ≈ 45 % (1 h 44 m).  
 
-- **Project:** All recorded time (42 min) was spent on **“Swipe Wheels.”**  
-- **Languages:**  
-  - C# – ~21 min (≈ 50 % of time)  
-  - Unity3D Asset – ~21 min (≈ 50 %)  
-  - XML – 17 s (≈ 1 %)  
-- **Key dependencies:**  
-  - UnityEngine – 20 min (≈ 60 %)  
-  - TMPro – 6 min (≈ 19 %)  
-  - GooglePlayGames – ~5 min (≈ 14 %)  
-  - Cinemachine – 1 min (≈ 5 %)  
-- **Machine:** All activity ran on **AryanshPC** (42 min).  
-- **Editor:** Split between **Visual Studio** (21 min, 50 %) and an **unknown editor** (21 min, 50 %).  
-- **Operating system:** **Windows** (42 min, 100 %).  
-- **Category:** Pure **coding** work.  
+**Projects**  
+- **Swipe Wheels:** 3 h 38 m (94 % of total).  
+- **Portfolio:** 13 m (6 %).  
 
-In short, the day’s 42 minutes of work were entirely on the “Swipe Wheels” project, primarily coding in C#/Unity, using UnityEngine and related packages on a Windows machine with Visual Studio.
+**Machines**  
+- **AryanshPC:** 2 h 8 m (55 %).  
+- **Unknown Hostname:** 1 h 44 m (45 %).  
+
+**Key dependencies (time spent)**  
+- UnityEngine ≈ 1 h 54 m (39 %).  
+- GoogleMobileAds ≈ 26 m, TMPro & Cinemachine ≈ 13 m each, plus several small UI/React libraries (≈ 10–12 m each).  
+
+**Time window**  
+- Recorded from 2025‑11‑21 18:30 UTC to 2025‑11‑22 18:29 UTC (Asia/Kolkata timezone).  
+
+**Summary** – In the 24‑hour period the user spent almost 4 hours coding, dominated by C# work in Visual Studio on the “Swipe Wheels” project, with the remainder split between browsing and a brief TypeScript session for the “Portfolio” project. All activity ran on Windows across two machines.
