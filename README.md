@@ -60,3 +60,30 @@
 - One‑hour coding session (≈3,945 s) ran on machine **aryanshdevs‑pop**; 99.93 % of activity in VS Code, 0.07 % in Android Studio.  
 - OS: Linux (100 %).  
 - Overall activity category: Coding (100 %).  
+
+## Summary For 2025-12-17
+**Overall activity (Dec 16 18:30 – Dec 17 18:29 IST)**  
+- **Total time logged:** 2 h 3 m 45 s (≈ 2.05 h, 7 425 s)  
+- **Edits:** 180 human additions, 29 deletions  
+
+**Project breakdown**  
+- **frontend:** 1 h 25 m 9 s (68.8 % of total) – 71 additions, 29 deletions  
+- **Avtaarmusic‑Backend:** 38 m 35 s (31.2 % of total) – 109 additions, 0 deletions  
+
+**Languages**  
+- **JavaScript:** 1 h 25 m 9 s (≈ 68.8 % of time)  
+- **TypeScript:** 38 m 35 s (≈ 30.7 %)  
+- **TSConfig / Bash:** negligible (≈ 0.5 %)  
+
+**Key dependencies (time spent)**  
+- **lucide‑react:** 1 h 12 m 44 s (≈ 15.2 %)  
+- **react:** 1 h 12 m 44 s (≈ 15.2 %)  
+
+**Profiling highlights (component‑level runtime)**  
+- **react** + **apiClient** each ~1 h 12 m (≈ 15 % each) – together ~30 % of total runtime.  
+- Next biggest contributors: **axios** (42 m 15 s, ≈ 9 %), **FirebaseHelper** (41 m 43 s, ≈ 9 %), **express** (27 m 11 s, ≈ 6 %).  
+- Smaller modules (e.g., `user.model`, `generateToken`, `bcryptjs`, `auth`, `app`, `mongoose`, various route files) each range from ~5 min to ~20 min, each accounting for ≤ 5 % of total time.  
+- Many UI/page components (`contactus`, `privacypolicy`, `featuredplaylist`, etc.) recorded ~1–2 s each, i.e., ≈ 0.01 % of overall runtime.  
+
+**Bottom line**  
+The bulk of the 2‑hour session was spent coding JavaScript in the frontend project, with the `react` and `lucide‑react` libraries consuming the most execution time. The backend work was a smaller share, and most other modules contributed only modest fractions of the total runtime.
