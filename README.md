@@ -87,3 +87,23 @@
 
 **Bottom line**  
 The bulk of the 2‑hour session was spent coding JavaScript in the frontend project, with the `react` and `lucide‑react` libraries consuming the most execution time. The backend work was a smaller share, and most other modules contributed only modest fractions of the total runtime.
+
+## Summary For 2025-12-19
+**Concise Summary**
+
+- **Overall session** – 2 h 29 m 13 s (≈2.48 h) of human‑authored work on the “aryanshdevs‑pop” Linux machine (VS Code).  
+- **Project split** – Front‑end ≈ 1 h 19 m (53 %); Backend ≈ 1 h 10 m (47 %).  
+- **Language usage** – JavaScript ≈ 1 h 19 m (53 %); TypeScript ≈ 1 h 09 m (46 %); tiny amounts of plain text and CSS (<0.2 %).  
+- **Key libraries** – `react` and `lucide‑react` each account for ~9 % of total time.  
+- **Top‑time modules** (≈44 % of all recorded time)  
+  1. `lucide‑react` – 1.30 h (9.1 %)  
+  2. `apiClient` – 1.18 h (8.3 %)  
+  3. `express` – 1.10 h (7.7 %)  
+  4. `path`, `song.model`, `user.model` – each ≤ 6 % of total.  
+- **Runtime profiling** – Seven modules each consume ~5 % of execution time (≈41–47 min): `mins`, `user.model`, `transaction.model`, `music‑metadata`, `fs`, `react‑router‑dom`, `jsonwebtoken`.  
+- **Route & helper modules** – `review.routes`, `wallet.routes`, `message.routes`, `auth.routes`, `dotenv`, etc., each run ~12 min (≈1.4 % of total).  
+- **CPU‑intensive parts** – `multer` (≈7 min 28 s, 0.87 %); several route modules (~5 min 40 s each, together ~3.3 %).  
+- **Dominant execution blocks** – `song.trending.controller` (≈56 % of runtime) and `otp.routes` (≈40 %) together make up ~96 % of the 10‑minute profiling run.  
+- **UI component cost** – Numerous UI pieces (Footer, ArtistDashboard, Navbar, Home, etc.) each logged ~19 s, representing ~0.04 % of total session time.  
+
+**Takeaway:** The coding session was evenly divided between front‑end and back‑end work, with JavaScript and TypeScript used almost equally. The bulk of execution time is driven by a few core libraries (`react`, `lucide‑react`) and a small set of backend modules (`lucide‑react`, `apiClient`, `express`). Runtime is heavily dominated by the trending controller and OTP routing logic, while UI components incur negligible overhead.
