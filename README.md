@@ -37,3 +37,34 @@ These seven items account for roughly **48 %** of the recorded work.
 - Work was split almost evenly between backend and frontend, with JavaScript being the dominant language.  
 - The bulk of effort was spent on a handful of core libraries and modules (the top seven), which together represent nearly half of all logged time.  
 - The remaining time is distributed across many smaller modules, each contributing only a few percent or less.  
+
+## Summary For 2025-12-22
+**Concise Summary**
+
+- **Total session:** 3 h 38 m 25 s (13 106 s) in VS Code on Linux.  
+- **Language breakdown:** JavaScript ≈ 1 h 48 m (49.6 %); TypeScript ≈ 1 h 46 m (48.6 %); Bash ≈ 4 m (1.8 %); CSS ≈ 0 s.  
+- **Human edits:** 990 additions, 409 deletions; no AI‑generated changes.  
+
+**Primary work areas**
+- React‑related code ≈ 9 % of time.  
+- Lucide‑React ≈ 9 % of time.  
+- Other notable modules: `express`, `user.model`, `axios`, `apiClient`, `s3.config` (each 4–6 % of total).  
+
+**Profiling highlights (top contributors)**
+- **music‑metadata** – 2 557 s (42 min, 3.81 %).  
+- **AuthContext** – 1 616 s (26 min, 2.41 %).  
+- **path**, **dotenv**, **multer**, **multer‑s3** – each 1 000–1 200 s (≈1.5–1.7 %).  
+- **FirebaseHelper** – 830 s (13 min 50 s, 1.24 %).  
+- Controllers (`favourite.controller`, `song.trending.controller`, `song.controller`) – ~399 s each (6 min 39 s, 0.59 %).  
+- `mongoose` – 322 s (5 min 21 s, 0.48 %).  
+
+**Route/module runtimes**
+- Several route modules (`song.routes`, `auth.routes`, `wallet.routes`, etc.) each took ~143 s (2 min 23 s, ~0.2 % of total).  
+- `auth.routes`, `media.model`, `favourite.routes` – each ~143 s (≈21 % of the listed subset).  
+- Smallest noted contributor: `jwt‑decode` – 27 s (0.04 %).  
+
+**Project split**
+- **Avtaarmusic‑Backend:** 1 h 50 m 4 s (≈50 %); 294 adds, 124 deletes.  
+- **frontend:** 1 h 48 m 21 s (≈50 %); 696 adds, 285 deletes.  
+
+**Overall insight:** The session was almost evenly split between JavaScript and TypeScript development, entirely manual, with the bulk of runtime time spent in a few heavy‑weight modules (music‑metadata, AuthContext, path handling, and upload helpers). All other components each contributed only a small fraction of the total execution time.
