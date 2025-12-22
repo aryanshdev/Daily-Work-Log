@@ -1,109 +1,39 @@
-# Week 51
+# Week 52
 
-## Summary For 2025-12-14
-**Daily Activity Summary (Dec 14 2025, Asia/Kolkata)**  
+## Summary For 2025-12-22
+**Time‑Tracking Summary (21‑22 Dec 2025, Asia/Kolkata)**  
 
-- **Total time tracked:** 48 minutes 39 seconds (≈0.80 h).  
-- **Project:** *Weathery_Source_Code* – 100 % of the day’s work.  
-- **Languages used:**  
-  - Dart – 34 min 12 s (≈70 % of coding time)  
-  - XML – 12 min 13 s (≈25 % )  
-  - YAML – 2 min 12 s total (≈4.5 % )  
-  - Minor traces of Text, Java Properties, Markdown (<0.1 % each).  
-- **Machine:** aryanshdevs‑pop (Linux) – 100 % of activity.  
-- **Editor:** Android Studio – 100 % of activity.  
-- **Categories:**  
-  - Coding – 48 min 39 s (≈99.99 %)  
-  - Writing Docs – negligible (≈0.01 %).  
+- **Total logged work:** 3 h 38 m (≈13 200 s, 3.63 h).  
+- **Project distribution:**  
+  - *Avtaarmusic‑Backend* – 1 h 50 m 04 s (≈50 %).  
+  - *frontend* – 1 h 48 m 21 s (≈50 %).  
+- **Language usage:** JavaScript ≈ 1 h 48 m (matches frontend); the remainder is mostly TypeScript with a few minutes of Bash/CSS.  
+- **Human code edits:**  
+  - Backend – 990 additions, 409 deletions.  
+  - Frontend – 696 additions, 285 deletions.  
+  - No AI‑generated edits.  
 
-*In short, the entire 48‑minute session was spent coding the Weathery source in Dart (dominant), with XML and a bit of YAML, using Android Studio on a Linux machine.*
+**Top‑time‑consuming modules / libraries** (approx. share of total time)  
 
-## Summary For 2025-12-16
-**Concise Summary**
+| Rank | Module / Library | Time (h m s) | % of total |
+|------|------------------|--------------|------------|
+| 1 | Unnamed task / “mins” | 1 h 44 m 35 s | 9.34 % |
+| 2 | `lucide‑react` | 1 h 29 m 25 s | 7.99 % |
+| 3 | `express` | 1 h 25 m 03 s | 7.60 % |
+| 4 | `user.model` | 1 h 14 m 41 s | 6.67 % |
+| 5 | `client‑s3` | 56 m 46 s | 5.07 % |
+| 6 | `react‑router‑dom` | 53 m 50 s | 4.81 % |
+| 7 | `axios` | 51 m 41 s | ~4 % |
 
-- **Time logged (Dec 15‑16 2025, Asia/Kolkata)**: 1 h 5 min (3,945 s).  
-- **Work split**:  
-  - Front‑end – 38 min (57.5 % of time; 38 additions, 36 deletions)  
-  - Avtaarmusic‑Backend – 28 min (42.5 % of time; 2 additions)  
-- **All changes were manual** (no AI‑generated edits).  
+These seven items account for roughly **48 %** of the recorded work.
 
-**Project & Coding Activity**  
-- Project: *Weathery_Source_Code* – 2.6 s of total runtime (≈0.07 %).  
-- Total coding time across the period: ~2 h 38 m.  
-- **Language usage** (≈94 % of coding time):  
-  - JavaScript – 2,269 s (57.5 %)  
-  - TypeScript – 1,467 s (37.2 %)  
-  - Bash – 173 s (4.4 %)  
-  - JSON – 34 s (0.9 %)  
-  - Dart – 2.5 s (≈0 %)  
+**Other notable contributors** (each ≈ 2–4 % of total):  
 
-**Runtime Profiling (top consumers)**  
-| Module / Package | Time (s) | Approx. % of total |
-|------------------|----------|-------------------|
-| `lucide‑react` / `react` | ~2,236 s (≈37 min) | 13.8 % each |
-| `axios` | 1,830 s (≈30 min) | 11.3 % |
-| `FirebaseHelper` | 1,621 s (≈27 min) | 10 % |
-| `express`, `bcryptjs`, `user.model`, `generateToken` | 6–8 % each |
-| Slowest functions: `generateToken` (16 min 23 s, 6.07 %) and `apiClient` (12 min 44 s, 4.72 %). |
+- `music‑metadata`, `user.types`, `bcryptjs`, `generateToken`, `stream`, `AuthContext` – each 2.8–3.8 % of total runtime.  
+- Minor route/model modules (`auth.routes`, `media.model`, `favourite.routes`, etc.) each consume ~0.2 % of total time.
 
-**Route & Module Execution**  
-- Each listed route (user, review, wallet, message, db, auth) runs ~231 s (3 min 51 s), ≈1.43 % of total runtime.  
-- Top three longest‑running modules:  
-  1. `auth.routes` – 231.5 s (1.43 %)  
-  2. `user.types` – 215.1 s (1.33 %)  
-  3. `cors` – 211.7 s (1.31 %)  
+**Overall picture**  
 
-**Minor‑time Packages**  
-- Numerous `node_modules` packages (e.g., `@types/*`, `lodash.*`, `semver`, `serve-static`, etc.) each consumed ~11 s (≈0.07 % of total), with identical timing metrics.  
-
-**Environment**  
-- One‑hour coding session (≈3,945 s) ran on machine **aryanshdevs‑pop**; 99.93 % of activity in VS Code, 0.07 % in Android Studio.  
-- OS: Linux (100 %).  
-- Overall activity category: Coding (100 %).  
-
-## Summary For 2025-12-17
-**Overall activity (Dec 16 18:30 – Dec 17 18:29 IST)**  
-- **Total time logged:** 2 h 3 m 45 s (≈ 2.05 h, 7 425 s)  
-- **Edits:** 180 human additions, 29 deletions  
-
-**Project breakdown**  
-- **frontend:** 1 h 25 m 9 s (68.8 % of total) – 71 additions, 29 deletions  
-- **Avtaarmusic‑Backend:** 38 m 35 s (31.2 % of total) – 109 additions, 0 deletions  
-
-**Languages**  
-- **JavaScript:** 1 h 25 m 9 s (≈ 68.8 % of time)  
-- **TypeScript:** 38 m 35 s (≈ 30.7 %)  
-- **TSConfig / Bash:** negligible (≈ 0.5 %)  
-
-**Key dependencies (time spent)**  
-- **lucide‑react:** 1 h 12 m 44 s (≈ 15.2 %)  
-- **react:** 1 h 12 m 44 s (≈ 15.2 %)  
-
-**Profiling highlights (component‑level runtime)**  
-- **react** + **apiClient** each ~1 h 12 m (≈ 15 % each) – together ~30 % of total runtime.  
-- Next biggest contributors: **axios** (42 m 15 s, ≈ 9 %), **FirebaseHelper** (41 m 43 s, ≈ 9 %), **express** (27 m 11 s, ≈ 6 %).  
-- Smaller modules (e.g., `user.model`, `generateToken`, `bcryptjs`, `auth`, `app`, `mongoose`, various route files) each range from ~5 min to ~20 min, each accounting for ≤ 5 % of total time.  
-- Many UI/page components (`contactus`, `privacypolicy`, `featuredplaylist`, etc.) recorded ~1–2 s each, i.e., ≈ 0.01 % of overall runtime.  
-
-**Bottom line**  
-The bulk of the 2‑hour session was spent coding JavaScript in the frontend project, with the `react` and `lucide‑react` libraries consuming the most execution time. The backend work was a smaller share, and most other modules contributed only modest fractions of the total runtime.
-
-## Summary For 2025-12-19
-**Concise Summary**
-
-- **Overall session** – 2 h 29 m 13 s (≈2.48 h) of human‑authored work on the “aryanshdevs‑pop” Linux machine (VS Code).  
-- **Project split** – Front‑end ≈ 1 h 19 m (53 %); Backend ≈ 1 h 10 m (47 %).  
-- **Language usage** – JavaScript ≈ 1 h 19 m (53 %); TypeScript ≈ 1 h 09 m (46 %); tiny amounts of plain text and CSS (<0.2 %).  
-- **Key libraries** – `react` and `lucide‑react` each account for ~9 % of total time.  
-- **Top‑time modules** (≈44 % of all recorded time)  
-  1. `lucide‑react` – 1.30 h (9.1 %)  
-  2. `apiClient` – 1.18 h (8.3 %)  
-  3. `express` – 1.10 h (7.7 %)  
-  4. `path`, `song.model`, `user.model` – each ≤ 6 % of total.  
-- **Runtime profiling** – Seven modules each consume ~5 % of execution time (≈41–47 min): `mins`, `user.model`, `transaction.model`, `music‑metadata`, `fs`, `react‑router‑dom`, `jsonwebtoken`.  
-- **Route & helper modules** – `review.routes`, `wallet.routes`, `message.routes`, `auth.routes`, `dotenv`, etc., each run ~12 min (≈1.4 % of total).  
-- **CPU‑intensive parts** – `multer` (≈7 min 28 s, 0.87 %); several route modules (~5 min 40 s each, together ~3.3 %).  
-- **Dominant execution blocks** – `song.trending.controller` (≈56 % of runtime) and `otp.routes` (≈40 %) together make up ~96 % of the 10‑minute profiling run.  
-- **UI component cost** – Numerous UI pieces (Footer, ArtistDashboard, Navbar, Home, etc.) each logged ~19 s, representing ~0.04 % of total session time.  
-
-**Takeaway:** The coding session was evenly divided between front‑end and back‑end work, with JavaScript and TypeScript used almost equally. The bulk of execution time is driven by a few core libraries (`react`, `lucide‑react`) and a small set of backend modules (`lucide‑react`, `apiClient`, `express`). Runtime is heavily dominated by the trending controller and OTP routing logic, while UI components incur negligible overhead.
+- Work was split almost evenly between backend and frontend, with JavaScript being the dominant language.  
+- The bulk of effort was spent on a handful of core libraries and modules (the top seven), which together represent nearly half of all logged time.  
+- The remaining time is distributed across many smaller modules, each contributing only a few percent or less.  
