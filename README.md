@@ -68,3 +68,30 @@ These seven items account for roughly **48 %** of the recorded work.
 - **frontend:** 1 h 48 m 21 s (≈50 %); 696 adds, 285 deletes.  
 
 **Overall insight:** The session was almost evenly split between JavaScript and TypeScript development, entirely manual, with the bulk of runtime time spent in a few heavy‑weight modules (music‑metadata, AuthContext, path handling, and upload helpers). All other components each contributed only a small fraction of the total execution time.
+
+## Summary For 2025-12-23
+**Performance & Activity Summary (Dec 23 2025, Asia/Kolkata)**  
+
+- **Total coding time:** 1 h 2 min ≈ 3,766 s (VS Code on Linux).  
+- **Project split:** frontend ≈ 56 min 44 s (≈ 90 %); Avtaarmusic‑Backend ≈ 6 min 2 s (≈ 10 %).  
+- **Primary language:** JavaScript (≈ 90 % of time).  
+
+**Dependency cost (relative to total runtime)**  
+- **lucide‑react** ≈ 24.6 %  
+- **react** ≈ 24.6 %  
+- **apiClient** ≈ 19.6 %  
+- **react‑router‑dom** ≈ 7 %  
+- Unnamed category (largest single consumer) ≈ 20 % (44 min 41 s).  
+
+All other listed modules (AuthContext, axios, express, FirebaseHelper, dotenv, etc.) each contribute < 4 % individually; the smallest share (dotenv) is ≈ 0.03 %.
+
+**Component execution times (representative)**  
+- Several UI/pages (e.g., Favorite, trendingsongs, myProfileL, signUp, Navbar) ≈ 38 s each → ≈ 0.28 % of total.  
+- Model/controller modules (song.trending.controller, song.controller, termsofService, uploadtrack, Footer, Favorite) ≈ 40 s each → ≈ 0.29 % each.  
+- Smaller routes/models (favourite.model, cors, analytics.routes, etc.) ≈ 11 s each → ≈ 0.08–0.12 % each.  
+- The seven most‑time‑consuming items together account for < 3 % of total runtime; the bulk of processing occurs elsewhere.
+
+**Key take‑aways**  
+- The bulk of effort was front‑end JavaScript work, with minimal backend time.  
+- The two core UI libraries (lucide‑react, react) dominate runtime cost, followed by apiClient and react‑router‑dom.  
+- Individual modules and routes each consume only a tiny fraction (< 0.5 %) of total execution time.  
