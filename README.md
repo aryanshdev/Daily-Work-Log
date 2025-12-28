@@ -1,108 +1,42 @@
-# Week 52
+# Week 1
 
-## Summary For 2025-12-22
-**Time‑Tracking Summary (21‑22 Dec 2025, Asia/Kolkata)**  
-
-- **Total logged work:** 3 h 38 m (≈13 200 s, 3.63 h).  
-- **Project distribution:**  
-  - *Avtaarmusic‑Backend* – 1 h 50 m 04 s (≈50 %).  
-  - *frontend* – 1 h 48 m 21 s (≈50 %).  
-- **Language usage:** JavaScript ≈ 1 h 48 m (matches frontend); the remainder is mostly TypeScript with a few minutes of Bash/CSS.  
-- **Human code edits:**  
-  - Backend – 990 additions, 409 deletions.  
-  - Frontend – 696 additions, 285 deletions.  
-  - No AI‑generated edits.  
-
-**Top‑time‑consuming modules / libraries** (approx. share of total time)  
-
-| Rank | Module / Library | Time (h m s) | % of total |
-|------|------------------|--------------|------------|
-| 1 | Unnamed task / “mins” | 1 h 44 m 35 s | 9.34 % |
-| 2 | `lucide‑react` | 1 h 29 m 25 s | 7.99 % |
-| 3 | `express` | 1 h 25 m 03 s | 7.60 % |
-| 4 | `user.model` | 1 h 14 m 41 s | 6.67 % |
-| 5 | `client‑s3` | 56 m 46 s | 5.07 % |
-| 6 | `react‑router‑dom` | 53 m 50 s | 4.81 % |
-| 7 | `axios` | 51 m 41 s | ~4 % |
-
-These seven items account for roughly **48 %** of the recorded work.
-
-**Other notable contributors** (each ≈ 2–4 % of total):  
-
-- `music‑metadata`, `user.types`, `bcryptjs`, `generateToken`, `stream`, `AuthContext` – each 2.8–3.8 % of total runtime.  
-- Minor route/model modules (`auth.routes`, `media.model`, `favourite.routes`, etc.) each consume ~0.2 % of total time.
-
-**Overall picture**  
-
-- Work was split almost evenly between backend and frontend, with JavaScript being the dominant language.  
-- The bulk of effort was spent on a handful of core libraries and modules (the top seven), which together represent nearly half of all logged time.  
-- The remaining time is distributed across many smaller modules, each contributing only a few percent or less.  
-
-## Summary For 2025-12-22
+## Summary For 2025-12-28
 **Concise Summary**
 
-- **Total session:** 3 h 38 m 25 s (13 106 s) in VS Code on Linux.  
-- **Language breakdown:** JavaScript ≈ 1 h 48 m (49.6 %); TypeScript ≈ 1 h 46 m (48.6 %); Bash ≈ 4 m (1.8 %); CSS ≈ 0 s.  
-- **Human edits:** 990 additions, 409 deletions; no AI‑generated changes.  
+- **Total effort:** 2 h 46 m 5 s (≈9 966 s) recorded on a single machine (aryanshdevs‑pop) using VS Code (Linux) during Dec 27 18:30 – Dec 28 18:29 UTC (Asia/Kolkata).  
+- **Human‑only edits:** ~1 764 additions and 1 575 deletions; no AI contributions.
 
-**Primary work areas**
-- React‑related code ≈ 9 % of time.  
-- Lucide‑React ≈ 9 % of time.  
-- Other notable modules: `express`, `user.model`, `axios`, `apiClient`, `s3.config` (each 4–6 % of total).  
+### Time Allocation
+| Area | Time | % of total |
+|------|------|------------|
+| Front‑end | 1 h 48 m | ~65 % |
+| Avtaarmusic‑Backend | 58 m | ~35 % |
+| **Languages** | | |
+| JavaScript | 1 h 45 m | ~63 % |
+| TypeScript | 56 m | ~34 % |
+| Bash | 4 m | ~3 % |
 
-**Profiling highlights (top contributors)**
-- **music‑metadata** – 2 557 s (42 min, 3.81 %).  
-- **AuthContext** – 1 616 s (26 min, 2.41 %).  
-- **path**, **dotenv**, **multer**, **multer‑s3** – each 1 000–1 200 s (≈1.5–1.7 %).  
-- **FirebaseHelper** – 830 s (13 min 50 s, 1.24 %).  
-- Controllers (`favourite.controller`, `song.trending.controller`, `song.controller`) – ~399 s each (6 min 39 s, 0.59 %).  
-- `mongoose` – 322 s (5 min 21 s, 0.48 %).  
+### Development Effort by Dependency (≈12 % each)
+- **lucide‑react** – 1 h 44 m 32 s (1.73 h, 12.63 %)  
+- **react** – 1 h 44 m 32 s (≈12.6 %)  
+- **apiClient** – 1 h 44 m 32 s (≈12.6 %)
 
-**Route/module runtimes**
-- Several route modules (`song.routes`, `auth.routes`, `wallet.routes`, etc.) each took ~143 s (2 min 23 s, ~0.2 % of total).  
-- `auth.routes`, `media.model`, `favourite.routes` – each ~143 s (≈21 % of the listed subset).  
-- Smallest noted contributor: `jwt‑decode` – 27 s (0.04 %).  
+### Other Notable Modules (≈5 % each)
+- AuthContext – 0 h 46 m 33 s (5.63 %)  
+- express – 0 h 45 m 14 s (5.47 %)  
+- mongoose – 0 h 39 m 15 s (≈5 %)
 
-**Project split**
-- **Avtaarmusic‑Backend:** 1 h 50 m 4 s (≈50 %); 294 adds, 124 deletes.  
-- **frontend:** 1 h 48 m 21 s (≈50 %); 696 adds, 285 deletes.  
+### Execution‑Time Hotspots (runtime, % of total)
+- **mongoose** – 2 355 s (≈39 m, 4.74 %)  
+- **user.model** – 2 130 s (≈35 m, 4.29 %)  
+- **song.model** – 1 979 s (≈33 m, 3.99 %)  
+- **favourite.model** – 1 979 s (≈33 m, 3.99 %)  
+- **axios** – 1 820 s (≈30 m, 3.66 %)  
+- **FirebaseHelper** – 1 532 s (≈25 m, 3.09 %)
 
-**Overall insight:** The session was almost evenly split between JavaScript and TypeScript development, entirely manual, with the bulk of runtime time spent in a few heavy‑weight modules (music‑metadata, AuthContext, path handling, and upload helpers). All other components each contributed only a small fraction of the total execution time.
+These six components together consume ~25 % of total runtime; the rest is spread across many smaller modules (each <1 %).
 
-## Summary For 2025-12-23
-**Performance & Activity Summary (Dec 23 2025, Asia/Kolkata)**  
+### Minor Runtime Contributors (≈0.05 % each)
+- Various route files (wallet.routes, message.routes, etc.) and utility modules (fs, client‑s3, mins, s3.config, user.types) each run ~26‑30 s, representing a negligible share of total processing time.
 
-- **Total coding time:** 1 h 2 min ≈ 3,766 s (VS Code on Linux).  
-- **Project split:** frontend ≈ 56 min 44 s (≈ 90 %); Avtaarmusic‑Backend ≈ 6 min 2 s (≈ 10 %).  
-- **Primary language:** JavaScript (≈ 90 % of time).  
-
-**Dependency cost (relative to total runtime)**  
-- **lucide‑react** ≈ 24.6 %  
-- **react** ≈ 24.6 %  
-- **apiClient** ≈ 19.6 %  
-- **react‑router‑dom** ≈ 7 %  
-- Unnamed category (largest single consumer) ≈ 20 % (44 min 41 s).  
-
-All other listed modules (AuthContext, axios, express, FirebaseHelper, dotenv, etc.) each contribute < 4 % individually; the smallest share (dotenv) is ≈ 0.03 %.
-
-**Component execution times (representative)**  
-- Several UI/pages (e.g., Favorite, trendingsongs, myProfileL, signUp, Navbar) ≈ 38 s each → ≈ 0.28 % of total.  
-- Model/controller modules (song.trending.controller, song.controller, termsofService, uploadtrack, Footer, Favorite) ≈ 40 s each → ≈ 0.29 % each.  
-- Smaller routes/models (favourite.model, cors, analytics.routes, etc.) ≈ 11 s each → ≈ 0.08–0.12 % each.  
-- The seven most‑time‑consuming items together account for < 3 % of total runtime; the bulk of processing occurs elsewhere.
-
-**Key take‑aways**  
-- The bulk of effort was front‑end JavaScript work, with minimal backend time.  
-- The two core UI libraries (lucide‑react, react) dominate runtime cost, followed by apiClient and react‑router‑dom.  
-- Individual modules and routes each consume only a tiny fraction (< 0.5 %) of total execution time.  
-
-## Summary For 2025-12-27
-**Daily coding activity (Dec 27 2025, Asia/Kolkata)**  
-
-- **Total time:** 6 min (410 s) spent coding.  
-- **Projects:** Avtaarmusic‑Backend ≈ 3 min (57 %); frontend ≈ 2 min (43 %).  
-- **Languages:** TypeScript ≈ 3 min (57 %); JavaScript ≈ 2 min (37 %); Bash ≈ 23 s (6 %).  
-- **Key dependencies used:** auth.middleware, user.controller, express (each ~3 min, 19 %); react (~2 min, 12 %); apiClient, lucide‑react (~1 min each, 8 %); others (intToStringConvert, react‑router‑dom, FirebaseHelper, AuthContext) contributed the remaining time.  
-- **Environment:** Machine “aryanshdevs‑pop”, editor VS Code, OS Linux – each accounting for 100 % of the recorded time.  
-
-Overall, the day’s work was a short coding session focused mainly on the Avtaarmusic‑Backend project, primarily in TypeScript, using Express and React‑related libraries.
+**Overall picture:** The bulk of work was front‑end JavaScript development, with three core dependencies (lucide‑react, react, apiClient) accounting for ~30 % of effort. Runtime profiling shows a handful of data‑access modules (mongoose, model files) dominate execution time, while most route handlers and utilities consume only a tiny fraction. All activity was human‑generated.
