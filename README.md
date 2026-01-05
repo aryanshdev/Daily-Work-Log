@@ -1,32 +1,26 @@
-# Week 1
+# Week 2
 
-## Summary For 2025-12-31
-**Overall session (2025‑12‑31, Asia/Kolkata)**  
-- **Total recorded time:** 52 min 32 s (≈0.87 h).  
+## Summary For 2026-01-05
+**Summary (Jan 5 2026, Asia/Kolkata)**  
+
+- **Total coding time:** 1 hr 53 min (6 797 s).  
 - **Projects:**  
-  - *frontend* – 44 min (≈84 %).  
-  - *Avtaarmusic‑Backend* – 9 min (≈16 %).  
-
-**Coding activity**  
-- **Human edits:** 211 additions, 134 deletions (no AI‑generated changes).  
+  - *frontend* – 4 538 s (≈ 66.8 % → 1 hr 15 min).  
+  - *Avtaarmusic‑Backend* – 2 260 s (≈ 33.2 % → 38 min).  
 - **Languages:**  
-  - JavaScript ≈ 37 min (62 % of time).  
-  - TypeScript ≈ 8 min (16 %).  
-  - HTML ≈ 5 min (9 %).  
-  - Bash ≈ 1½ min (3 %).  
+  - JavaScript – 3 525 s (≈ 52 %).  
+  - TypeScript – 2 139 s (≈ 31 %).  
+  - Bash – 1 130 s (≈ 17 %).  
+  - CSS – 3 s (≈ 0 %).  
+- **Top dependencies (by time):**  
+  1. react – 3 440 s (≈ 22 %).  
+  2. apiClient – 2 571 s (≈ 16 %).  
+  3. axios – 2 181 s (≈ 14 %).  
+  4. lucide‑react / react‑router‑dom – each ~2 027 s (≈ 13 %).  
+- **Environment:**  
+  - Machine: *aryanshdevs‑pop* (100 % of time).  
+  - Editor: VS Code (100 %).  
+  - OS: Linux (100 %).  
+- **Category:** All time logged under “Coding”.  
 
-**Top libraries / components**  
-- **react / apiClient** – ~35 min each (≈13 % of total).  
-- **FirebaseHelper & AuthContext** – ~18 min each (≈6.6 %).  
-- **axios** – ~10 min (≈3.6 %).  
-- **express** – ~8½ min (≈3 %).  
-
-**Other notable modules** (each ~5 min, ≈1.8 % of total):  
-message.routes, webhook.routes, otp.routes, wallet.routes, cors, and several other route files.
-
-**Environment**  
-- Machine: *aryanshdevs‑pop* (Linux).  
-- Editor: VS Code.  
-- OS: Linux (100 % of session).  
-
-**Key take‑away** – The bulk of the work was front‑end JavaScript coding, heavily centered on React (and its apiClient), with modest contributions from TypeScript, HTML, and Bash. The session was entirely human‑driven on a Linux workstation using VS Code.
+*Overall, the day’s work was split roughly two‑thirds on the frontend project, with JavaScript being the dominant language and React‑related libraries consuming the bulk of dependency time.*
